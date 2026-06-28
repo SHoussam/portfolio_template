@@ -14,8 +14,8 @@ A stunning, highly-customizable portfolio template built with **React**, **Vite*
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd portfolio
+   git clone (https://github.com/SHoussam/portfolio_template.git)
+   cd portfolio_template
    ```
 
 2. **Install dependencies**
